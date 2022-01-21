@@ -19,7 +19,7 @@ And those projects on mobil screens.
 
 ## Getting Started
  
- This is a live site, that can be reached at (https://lauragupta.github.io/firstPortfolio/)
+ This is a live site, that can be reached at https://lauragupta.github.io/firstPortfolio/
 
 
 
