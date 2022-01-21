@@ -14,7 +14,7 @@ This is part of my project section for wide screens...
 ![Projects for wide screens](portfolioProjectsWide.png)
 
 And those projects on mobil screens. 
-![Projects for mobil](portfolioProjectsMobile.png)
+![Projects for mobile](portfolioProjectsMobile.png)
 
 
 ## Getting Started
